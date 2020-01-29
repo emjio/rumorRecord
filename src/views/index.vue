@@ -3,10 +3,9 @@
 </template>
 
 <script lang="ts">
-import { Vue,Components } from "vue-property-decorator";
-@Components
+import { Vue,Component } from "vue-property-decorator";
+@Component
 export default class Index extends Vue {
-
 }
 </script>
 
